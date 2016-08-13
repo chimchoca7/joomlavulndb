@@ -10830,5 +10830,17 @@
         "date": "2016.08.08"
       }
     ]
+  },
+{
+    "name": "registrationpro",
+    "vulns": [
+      {
+        "title": "Joomla com_registrationpro SQL injection Vulner",
+        "url": "https://cxsecurity.com/issue/WLB-2016080110",
+        "date": "2016.08.11",
+		"introduced_in": "3.2.12",
+		"fixed_in": "3.2.11"
+      }
+    ]
   }
 ]
