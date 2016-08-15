@@ -10842,5 +10842,15 @@
 		"fixed_in": "3.2.11"
       }
     ]
+  },
+{
+    "name": "aceftp",
+    "vulns": [
+      {
+        "title": "Joomla AceFTP Arbitrary File Download Vulnerability",
+        "url": "http://0day.today/exploit/24963",
+        "date": "15-08-2016"
+      }
+    ]
   }
 ]
