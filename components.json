@@ -10852,5 +10852,35 @@
         "date": "15-08-2016"
       }
     ]
+  },
+{
+    "name": "jsjobs",
+    "vulns": [
+      {
+        "title": "Joomla com_jsjobs SQL injection Vulnerability (oi=)",
+        "url": "https://cxsecurity.com/issue/WLB-2016080270",
+        "date": "2016.08.31"
+      }
+    ]
+  },
+{
+    "name": "offices",
+    "vulns": [
+      {
+        "title": "Joomla com_offices SQL injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2016080271",
+        "date": "2016.08.31"
+      }
+    ]
+  },
+{
+    "name": "osdownloads",
+    "vulns": [
+      {
+        "title": "Joomla com osdownloads SQL injection Vulnerability (id=)",
+        "url": "http://howucan.gr",
+        "date": "27/08/2016"
+      }
+    ]
   }
 ]
