@@ -10882,5 +10882,15 @@
         "date": "27/08/2016"
       }
     ]
+  },
+{
+    "name": "alberghi",
+    "vulns": [
+      {
+        "title": "Joomla com_alberghi Arbitrary File Upload Vulnerability",
+        "url": "http://0day.today/exploit/25409",
+        "date": "10-09-2016"
+      }
+    ]
   }
 ]
