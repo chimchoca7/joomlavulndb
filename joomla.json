@@ -290,5 +290,10 @@
     "date": "2015-12-15",
     "introduced_in": 1.5,
     "fixed_in": "3.4.6"
+  },
+  {
+    "title": "Joomla! session id not hashed",
+    "date": "2016-09-21",
+    "fixed_in": "3.6.3"
   }
 ]

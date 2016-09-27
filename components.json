@@ -10892,5 +10892,59 @@
         "date": "10-09-2016"
       }
     ]
+  },
+{
+    "name": "jvotesystem",
+    "vulns": [
+      {
+        "title": "Joomla jVoteSystem 2.56 Component Cross Site Scripting",
+        "url": ["https://cxsecurity.com/issue/WLB-2016090082"],
+        "date": "13-09-2016",
+		"introduced_in": "2.56"
+      }
+    ]
+  },
+{
+    "name": "jvotesystem",
+    "vulns": [
+      {
+        "title": "Joomla jVoteSystem Component 2.56 SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2016090083",
+        "date": "13-09-2016",
+		"introduced_in": "2.56"
+      }
+    ]
+  },
+{
+    "name": "videogallerylite",
+    "vulns": [
+      {
+        "title": "Joomla Huge-IT Video Gallery 1.0.9 SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2016090164",
+        "date": "23-09-2016",
+		"introduced_in": "1.0.9",
+		"fixed_in": "1.1.0"
+      }
+    ]
+  },
+{
+    "name": "jwalpapers",
+    "vulns": [
+      {
+        "title": "Joomla com_jwalpapers File Upload Vulnerability (def_cat)",
+        "url": "https://howucan.gr/vulnerabilities/joomla-exploits/829-joomla-com-jwalpapers-file-upload-vulnerability",
+        "date": "24-09-2016"
+      }
+    ]
+  },
+{
+    "name": "eventbooking",
+    "vulns": [
+      {
+        "title": "Joomla Event Booking 2.10.1 SQL Injection (date)",
+        "url": "http://0day.today/exploit/25409",
+        "date": "25-09-2016"
+      }
+    ]
   }
 ]
