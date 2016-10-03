@@ -10946,5 +10946,16 @@
         "date": "25-09-2016"
       }
     ]
+  },
+{
+    "name": "portfoliogallery",
+    "vulns": [
+      {
+        "title": "Joomla Huge-IT Portfolio Gallery Plugin v1.0.6 Unauthenticated SQL Injection",
+        "url": "http://www.vapidlabs.com/advisory.php?v=171",
+        "date": "03-10-2016",
+		"introduced_in": "1.0.6"
+      }
+    ]
   }
 ]

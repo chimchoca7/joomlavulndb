@@ -99,5 +99,15 @@
         "introduced_in": "2.0.3"
       }
     ]
+  },
+  {
+    "name": "dvfoldercontent",
+    "vulns": [
+      {
+        "title": "Joomla DVFolderContent V1.0.2 Module - Local File Disclosure",
+        "date": "2016-03-10",
+        "introduced_in": "1.0.2"
+      }
+    ]
   }
 ]
