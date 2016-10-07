@@ -10838,8 +10838,8 @@
         "title": "Joomla com_registrationpro SQL injection Vulner",
         "url": "https://cxsecurity.com/issue/WLB-2016080110",
         "date": "2016.08.11",
-		"introduced_in": "3.2.12",
-		"fixed_in": "3.2.11"
+		"introduced_in": "3.2.11",
+		"fixed_in": "3.2.12.1"
       }
     ]
   },
@@ -10955,6 +10955,17 @@
         "url": "http://www.vapidlabs.com/advisory.php?v=171",
         "date": "03-10-2016",
 		"introduced_in": "1.0.6"
+      }
+    ]
+  },
+{
+    "name": "remository",
+    "vulns": [
+      {
+        "title": "Joomla com_remository Component - Full Path Disclosure Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2016090208",
+        "date": "2016.09.28",
+		"introduced_in": "3.54.08"
       }
     ]
   }
