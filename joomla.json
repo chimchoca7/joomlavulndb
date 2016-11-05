@@ -295,5 +295,11 @@
     "title": "Joomla! session id not hashed",
     "date": "2016-09-21",
     "fixed_in": "3.6.3"
+  },
+  {
+    "title": "Joomla (< 3.6.4) Account Creation/Elevated Privileges write-up and exploit",
+    "date": "2016-10-27",
+    "introduced_in": "3.4.4",
+    "fixed_in": "3.6.4"
   }
 ]

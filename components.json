@@ -10968,5 +10968,28 @@
 		"introduced_in": "3.54.08"
       }
     ]
+  },
+{
+    "name": "devn_vmattribute",
+    "vulns": [
+      {
+        "title": "Joomla Virtuemart 2.6.10 component com_devn_vmattribute Arbitrary File Upload Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2016100100",
+        "date": "2016.10.11",
+		"introduced_in": "2.6.10"
+      }
+    ]
+  },
+{
+    "name": "devn_vmattribute",
+    "vulns": [
+      {
+        "title": "Joomla VirtueMart 3.0.10 - 3.0.18 Full Administrative access to virtuemart control panel",
+        "url": "https://howucan.gr/vulnerabilities/joomla-exploits/984-joomla-virtuemart-3-0-10-3-0-18-full-administrative-access-to-virtuemart-control-panel",
+        "date": "2016.10.09",
+		"introduced_in": "3.0.10",
+		"fixed_in": "3.0.19"
+      }
+    ]
   }
 ]
