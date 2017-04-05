@@ -301,5 +301,11 @@
     "date": "2016-10-27",
     "introduced_in": "3.4.4",
     "fixed_in": "3.6.4"
+  },
+  {
+    "title": "Joomla! < 2.5.2 - Admin Creation",
+    "date": "2017-01-26",
+    "introduced_in": "1.0.0",
+    "fixed_in": "2.5.3"
   }
 ]
