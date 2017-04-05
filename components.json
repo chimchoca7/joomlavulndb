@@ -11818,4 +11818,323 @@
       }
     ]
   },
+{
+    "name": "k2",
+    "vulns": [
+      {
+        "title": "Joomla com_k2 Component 'id' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017020259",
+        "date": "27-02-2017",
+		"introduced_in": "2.1"
+      }
+    ]
+  },
+{
+    "name": "remository",
+    "vulns": [
+      {
+        "title": "Joomla com_remository Component 'id' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017020260",
+        "date": "27-02-2017",
+		"introduced_in": "1.5"
+      }
+    ]
+  },
+{
+    "name": "remository",
+    "vulns": [
+      {
+        "title": "Joomla com_remository Component 'id' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017020260",
+        "date": "27-02-2017",
+		"introduced_in": "1.6"
+      }
+    ]
+  },
+{
+    "name": "phocadownload",
+    "vulns": [
+      {
+        "title": "Joomla com_phocadownload Component 'id' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030001",
+        "date": "01-03-2017",
+		"introduced_in": "1.8"
+      }
+    ]
+  },
+{
+    "name": "filecabinet",
+    "vulns": [
+      {
+        "title": "Joomla com_filecabinet Component 'id' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030002",
+        "date": "01-03-2017",
+		"introduced_in": "1.6"
+      }
+    ]
+  },
+{
+    "name": "filecabinet",
+    "vulns": [
+      {
+        "title": "Joomla com_filecabinet Component 'id' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030002",
+        "date": "01-03-2017",
+		"introduced_in": "1.7"
+      }
+    ]
+  },
+{
+    "name": "frontpage",
+    "vulns": [
+      {
+        "title": "Joomla com_frontpage Component 'Itemid' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030003",
+        "date": "01-03-2017",
+		"introduced_in": "2.0"
+      }
+    ]
+  },
+{
+    "name": "webgrouper",
+    "vulns": [
+      {
+        "title": "Joomla com_webgrouper Component - 'Itemid' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030011",
+        "date": "02-03-2017",
+		"introduced_in": "1.6"
+      }
+    ]
+  },
+{
+    "name": "webgrouper",
+    "vulns": [
+      {
+        "title": "Joomla com_webgrouper Component - 'Itemid' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030011",
+        "date": "02-03-2017",
+		"introduced_in": "1.7"
+      }
+    ]
+  },
+{
+    "name": "jdownloads",
+    "vulns": [
+      {
+        "title": "Joomla com_jdownloads Component - 'cid' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030012",
+        "date": "02-03-2017",
+		"introduced_in": "3.0"
+      }
+    ]
+  },
+{
+    "name": "streetguess",
+    "vulns": [
+      {
+        "title": "Joomla StreetGuessr Game 1.0 SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030036",
+        "date": "04-03-2017",
+		"introduced_in": "1.0"
+      }
+    ]
+  },
+{
+    "name": "recipe",
+    "vulns": [
+      {
+        "title": "Joomla! Component Recipe Manager v2.2 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017020258",
+        "date": "04-03-2017",
+		"introduced_in": "2.2"
+      }
+    ]
+  },
+{
+    "name": "guesser",
+    "vulns": [
+      {
+        "title": "Joomla Guesser 1.0.4 SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030038",
+        "date": "04-03-2017",
+		"introduced_in": "1.0.4"
+      }
+    ]
+  },
+{
+    "name": "abstract",
+    "vulns": [
+      {
+        "title": "Joomla! Component Abstract v2.1 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030039",
+        "date": "02-03-2017",
+		"introduced_in": "2.1"
+      }
+    ]
+  },
+{
+    "name": "akeeba",
+    "vulns": [
+      {
+        "title": "Joomla Component Akeeba Backup 5.2.5 - Directory Traversal",
+        "url": "https://cxsecurity.com/issue/WLB-2017030072",
+        "date": "07-03-2017",
+		"introduced_in": "1.5"
+      }
+    ]
+  },
+{
+    "name": "product",
+    "vulns": [
+      {
+        "title": "Joomla com_product 2.2 SQL injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030101",
+        "date": "11-03-2017",
+		"introduced_in": "2.2"
+      }
+    ]
+  },
+{
+    "name": "carocci",
+    "vulns": [
+      {
+        "title": "Joomla com_carocci Component 'isbn' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030130",
+        "date": "13-03-2017",
+		"introduced_in": "1.4"
+      }
+    ]
+  },
+{
+    "name": "kide",
+    "vulns": [
+      {
+        "title": "Joomla com_kide Component 'view' Parameter Sql Injection Vulnerability",
+        "url": "https://cxsecurity.com/issue/WLB-2017030131",
+        "date": "13-03-2017",
+		"introduced_in": "1.6"
+      }
+    ]
+  },
+{
+    "name": "alfcontact",
+    "vulns": [
+      {
+        "title": "Joomla ALFContact 3.2.3 SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030132",
+        "date": "14-03-2017",
+		"introduced_in": "3.2.3"
+      }
+    ]
+  },
+{
+    "name": "simplemembership",
+    "vulns": [
+      {
+        "title": "Joomla Simple Membership 3.3.3 SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030139",
+        "date": "15-03-2017",
+		"introduced_in": "3.3.3"
+      }
+    ]
+  },
+{
+    "name": "advertisementboard",
+    "vulns": [
+      {
+        "title": "Joomla! Component Advertisement Board v3.0.4 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030140",
+        "date": "15-03-2017",
+		"introduced_in": "3.0.4"
+      }
+    ]
+  },
+{
+    "name": "vikrentitems",
+    "vulns": [
+      {
+        "title": "Joomla! Component Vik Rent Items v1.3 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030145",
+        "date": "16-03-2017",
+		"introduced_in": "1.3"
+      }
+    ]
+  },
+{
+    "name": "vikrentcar",
+    "vulns": [
+      {
+        "title": "Joomla! Component Vik Rent Car v1.11 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030146",
+        "date": "16-03-2017",
+		"introduced_in": "1.11"
+      }
+    ]
+  },
+{
+    "name": "vikappointments",
+    "vulns": [
+      {
+        "title": "Joomla! Component Vik Appointments v1.5 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030147",
+        "date": "16-03-2017",
+		"introduced_in": "1.5"
+      }
+    ]
+  },
+{
+    "name": "jcart",
+    "vulns": [
+      {
+        "title": "Joomla! Component jCart for OpenCart v2.0 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030177",
+        "date": "20-03-2017",
+		"introduced_in": "2.0"
+      }
+    ]
+  },
+{
+    "name": "extrasearch",
+    "vulns": [
+      {
+        "title": "Joomla Extra Search 2.2.8 SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030197",
+        "date": "22-03-2017",
+		"introduced_in": "2.2.8"
+      }
+    ]
+  },
+{
+    "name": "focalpoint",
+    "vulns": [
+      {
+        "title": "Joomla Component FocalPoint 1.2.3 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017030207",
+        "date": "23-03-2017",
+		"introduced_in": "1.2.3"
+      }
+    ]
+  },
+{
+    "name": "jobgrokapp",
+    "vulns": [
+      {
+        "title": "Joomla Component JobGrok Application 3.1-1.2.55 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017040003",
+        "date": "03-04-2017",
+		"introduced_in": "3.1-1.2.55"
+      }
+    ]
+  },
+{
+    "name": "jobgroklist",
+    "vulns": [
+      {
+        "title": "Joomla Component JobGrok Listing 3.1-1.2.58 - SQL Injection",
+        "url": "https://cxsecurity.com/issue/WLB-2017040004",
+        "date": "03-04-2017",
+		"introduced_in": "3.1-1.2.58"
+      }
+    ]
+  }
 ]
